@@ -37,8 +37,8 @@ export default () =>
         <b>this lil' personal website</b> - <p>mobile-first responsive design built using GatsbyJS and GraphQL</p>
         <br></br>
         <div>
-          <a href="http://www.facebook.com/undeadAuthor">app</a>
-          <a href="denaci.surge.sh">git repo</a>
+          <a href="denaci.surge.sh">app</a>
+          <a href="https://github.com/sdenaci/personalWebsite">git repo</a>
         </div>
       </div>
     </div>
